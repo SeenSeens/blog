@@ -62,8 +62,8 @@
                 );
                 ?>
                 <footer class="entry-footer">
-		<?php blog_entry_footer(); ?>
-	</footer><!-- .entry-footer -->
+                    <?php blog_entry_footer(); ?>
+                </footer><!-- .entry-footer -->
             </div>
         </div>
 	</div><!-- .entry-content -->
