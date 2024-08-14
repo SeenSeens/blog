@@ -1,7 +1,6 @@
 .git
 .idea
 wp-admin
-wp-content
 wp-includes
 index.php
 license.txt
